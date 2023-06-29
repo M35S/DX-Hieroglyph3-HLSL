@@ -1,6 +1,6 @@
 # DX-Hieroglyph3-HLSL
 
-![DirectX_Test.png](https://github.com/M35S/DX-Hieroglyph3-HLSL/blob/main/DX%20GitHub%20pics/DirectX_Test.png)
+![DirectX_Test.png](https://github.com/M35S/DX-Hieroglyph3-HLSL/blob/main/DX%20GitHub%20pics/DirectX_Test.PNG)
 
 ## Contents
 - Introduction
@@ -18,7 +18,7 @@ Hopefully with what I have provided can help give some context. Hieroglyph3 can 
 
 ### Application Flow
 
-![DX_App_Flow.png](https://github.com/M35S/DX-Hieroglyph3-HLSL/blob/main/DX%20GitHub%20pics/DX_App_Flow.png)
+![DX_App_Flow.png](https://github.com/M35S/DX-Hieroglyph3-HLSL/blob/main/DX%20GitHub%20pics/DX_App_Flow.PNG)
 
 The above diargam aims to simplify the application's flow from start to finish. 
 
